@@ -1,3 +1,3 @@
-# [Website mr4torr](https://mr4torr.github.io/)
+# [Website edupajeu](https://edupajeu.github.io/)
 
-Source code is in the repository [@mr4torr/site-mr4torr](https://github.com/mr4torr/site-mr4torr)
+Source code is in the repository [@edupajeu/site-edupajeu](https://github.com/edupajeu/site-edupajeu)
